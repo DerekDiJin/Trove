@@ -1,3 +1,3 @@
 # Trove
 
-Scripts used to parse the data from Trove Inc..
+Scripts used to parse the data from Trove AI.
